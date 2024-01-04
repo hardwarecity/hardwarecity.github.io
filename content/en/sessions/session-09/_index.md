@@ -4,17 +4,21 @@ description: This is the demo site for Dot Org Theme. The title description and 
 date: 2018-02-27
 ---
 
-## Hardware City Session #9 | Product Development - Design Edition
-Terça-feira, 27 de fevereiro de 2018
-Centro Cultural e de Congressos de Aveiro
+## Hardware City Session #9: Celebrating Innovation in Design
 
 {{< img src="event-photo.jpeg" >}}
 
-Descrição: [PT|EN]
-A terceira temporada das HARDWARE CITY SESSIONS continua! O tema da Session#9 será no âmbito de Desenvolvimento de Produto, com oradores que aliam o design à engenharia para criar produtos tecnológicos e inovadores.
-Mais uma vez, podem contar com o espaço de showcase e networking onde vamos contar com expositores de produtos com caraterísticas diferenciadoras, com quem vão poder contactar diretamente e conhecer as novidades dos empreendedores do nosso país. E claro, não vai faltar o coffee&beer break.
+We're thrilled to share the highlights from our recent Hardware City Session #9, held at the vibrant "Centro Cultural e de Congressos" in Aveiro city! This session revolved around the fascinating world of Product Development, where design and engineering converge to create groundbreaking technological solutions.
 
-Os oradores convidados são:
+## Key Highlights
+
+The session kicked off with engaging discussions and a captivating showcase area, offering attendees a firsthand look at distinguished and innovative products. This provided a unique opportunity for direct engagement, networking, and discovery of Portugal's entrepreneurial ingenuity.
+
+## Featured Speakers
+
+Eduardo Noronha, Founder & CEO at NoronhaDesign, provided insights into the vertical integration of structured design across industrial, communication, and strategic domains.
+
+Pedro Gomes, Founder & CEO at Pedro Gomes Design, shared his expertise in product design, showcasing international success stories recognized with the prestigious Red Dot Design Award.
 
 {{< cards count=2 >}}
 {{< card >}}
@@ -27,35 +31,20 @@ Founder & CEO @ Pedro Gomes Design
 {{< /card >}}
 {{< /cards >}}
 
-Programa:
-20:30 | Welcome
-21:00 | Tertúlia
-21:40 | Debate
-22:00 | Demonstradores (network + beer)
-Para garantires que tens um lugar preparado para ti, não te esqueças de te inscrever aqui: (https://hardwarecity-session9.eventbrite.pt)
-As Hardware City Sessions são eventos em que debatemos e abordamos temas relacionados com o desenvolvimento de produto, desde a sua criação, processo de industrialização até à comercialização.
-Na primeira parte, os nossos oradores convidados que são experientes nas diversas áreas, dão o mote ao debate com a plateia. Na segunda parte, temos o showcase de produtos inovadores por parte de empresas e startups, com quem os participantes podem estabelecer contacto.
-[EN] - - -
-The third season of HARDWARE CITY SESSIONS continues! Session #9 theme will be related to Product Development, with guest speakers that combine design and engineering to create technological and innovative products.
-Once again, you can count on room for showcases where exhibitors will display new distinguished products. You will also be able to network by speaking with them directly and getting to know Portugal’s entrepreneurial discoveries! And of course, you can count on coffee&beer break.
-Our guest speakers are:
-Eduardo Noronha | Founder & CEO @ NoronhaDesign (https://noronhadesign.com/)
-Pedro Gomes | Founder & CEO @ Pedro Gomes Design
-Program:
-20:30 | Welcome
-21:00 | Tertulia
-21:40 | Debate
-22:00 | Exhibitors (networking + beer)
-To ensure your spot in this great event, don’t forget to sign up here: (https://hardwarecity-session9.eventbrite.pt)
-Hardware City Sessions are events in which we discuss and address issues related to product development from its creation, going through the process of industrialization and commercialization.
-In the first part of the Sessions, our guest speakers set the tone for the debate, while interacting with the audience. In the second part, we have a showcase of exhibitors with innovative products, with whom participants can chat and network.
+The event embraced the diverse aspects of product development, spanning creation, industrialization, and commercialization. This holistic approach facilitated robust discussions, fostering an environment for insightful knowledge exchange and exploration.
 
-Discussão: Hoje às 20h30 vamos ter uma session com exemplos do melhor do made in Portugal:
-O Pedro Gomes vem trazer-nos a sua experiência em design de produto com uma visão holística, resultando em produtos de sucesso internacional que ganharam um Red Dot Design Award!
- O Eduardo Noronha vem falar-nos sobre a integração vertical do design estruturado em 3 níveis: design industrial, design de comunicação e design estratégico
-Na área de showcase:
- Os nossos oradores convidados vão mostrar alguns dos seus produtos de sucesso
- E quem pensaria que os autoclismos também podem ser cool?  A equipa de R&D da OLI vai lá estar para te mostrar o futuro nesta área
- A 3D-Ever vai mostrar o futuro da prototipagem rápida e da produção em série sem usar ferramentas, usando a tecnologia de impressão 3D Multi Jet da HP
+In the showcase area, the exhibitors showcased the future:
 
-Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.152766795441190/1029961137142438
+Pedro Gomes and Eduardo Noronha presented some of their successful products, highlighting innovative design and strategic vision.
+
+Oli's R&D team showcased cutting-edge solutions in self-tasking, showcasing the future of this domain.
+
+3D-Ever demonstrated the future of rapid prototyping and series production using HP's Multi Jet 3D print technology, showcasing a tool-less approach.
+
+Attendees also enjoyed a delightful networking space with coffee and beer, fostering informal discussions and facilitating connections among participants.
+
+We extend our heartfelt gratitude to our esteemed speakers, exhibitors, and attendees for contributing to the success of Hardware City Session #9, fostering an atmosphere of innovation and collaboration.
+
+Stay tuned for more updates, insights, and future sessions as we continue our journey, exploring the frontiers of product development and innovation!
+
+

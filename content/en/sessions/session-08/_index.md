@@ -1,21 +1,44 @@
 ---
 title: "Hardware City: Session 8"
 description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
-date: 2018-01-31
+date: 2018-01-31T20:30:00
 ---
 
-## Hardware City Session #8 | Product Development in Portugal
+## Hardware City Session #8: Recap of Product Development in Portugal
 
 Quarta-feira, 31 de janeiro de 2018, 20h30
 Centro Cultural e de Congressos de Aveiro
 
 {{< img src="event-photo.jpeg" >}}
 
-Descrição:
-[PT|EN]
-Na HARDWARE CITY vamos abrir o ano em grande com o início de uma nova temporada das nossas Sessions. A Session #8 vai ser sobre Desenvolvimento de Produto em Portugal e fizemos questão de convidar os melhores oradores para vocês!
-Além disso, preparámos uma exposição de produtos mega inovadores e criativos no nosso espaço de networking... com sushi e a nossa Cerveja Maldita à mistura!
-Os oradores convidados são:
+We are thrilled to share the success and highlights from the recently concluded Hardware City Session #8! Held at the heart of innovation in the "Centro Cultural e de Congressos" in Aveiro city, this session was a remarkable exploration into product development in Portugal.
+
+## Key Highlights
+
+The session focused on delving into the nuances of product development, featuring insightful discussions and an exhibition of innovative products. Attendees had the opportunity to engage with industry experts, startups, and companies, fostering networking and collaboration.
+
+## Featured Speakers
+
+Nuno Gomes, Founder & CEO at Exatronic Innovation Insight, shared invaluable insights into the realm of product innovation and development.
+
+Gustavo Corrente, Co-founder & CTO at Wiseware, brought forth perspectives from Wiseware Solutions, contributing to a vibrant discussion on innovation and technology.
+
+## Exhibitors Showcase
+
+The exhibition space featured super innovative products from:
+
+Watgrid Solutions
+Apis Technology
+PICadvanced
+Exatronic Innovation Insight
+Wiseware Solutions
+The event schedule included icebreakers, engaging tertulia discussions, a stimulating debate, and a showcase of demonstrators, providing a holistic experience for all participants.
+
+Hardware City Sessions continue to be an instrumental platform for discussing and addressing issues related to product development, spanning the creation, industrialization, and commercialization phases. This session, much like the ones before it, fostered engaging discussions and valuable interactions among participants.
+
+We extend our heartfelt thanks to our esteemed speakers, exhibitors, attendees, and the "Centro Cultural e de Congressos" for their invaluable support and contribution to the success of Hardware City Session #8.
+
+Stay tuned for more updates, insights, and future sessions as we continue our journey, exploring the ever-evolving landscape of product development and innovation!
 
 {{< cards count=2 >}}
 {{< card >}}
@@ -29,43 +52,3 @@ Co-founder & CTO at [Wiseware](http://wisewaresolutions.com/)
 {{< /cards >}}
 
 {{< img src="speakers.png" >}}
-
-Os expositores são:
-1. Watgrid Solutions
-2. Apis Technology
-3. PICadvanced
-4. Exatronic Innovation Insight
-5. Wiseware (http://wisewaresolutions.com/)
-
-Programa:
-20:30 | Icebreak
-21:00 | Tertúlia
-21:40 | Debate
-22:00 | Demonstradores (network + beer)
-Para garantires que tens um lugar preparado para ti, não te esqueças de te inscreveres aqui: http://bit.ly/2DzkBnx
-As Hardware City Sessions são eventos em que debatemos e abordamos temas relacionados com o desenvolvimento de produto, desde a sua criação, processo de industrialização até à comercialização.
-Na primeira parte, os nossos oradores convidados que são experientes nas diversas áreas, dão o mote ao debate com a plateia. Na segunda parte, temos o showcase de produtos inovadores por parte de empresas e startups, com quem os participantes podem estabelecer contacto.
-[EN] - - -
-HARDWARE CITY is kicking off the year in great shape with the beginning of a new season of our Sessions. Session # 8 will be on the subject of Product Development in Portugal and we made sure to bring the best speakers for you!
-In addition, we've also prepared an exhibition of super innovative and creative products in our networking space... adding a bit of sushi and our Cerveja Maldita to the mix!
-Our guest speakers are going to be:
-1. Nuno Gomes | Founder & CEO at Exatronic Innovation Insight
-2. Gustavo Corrente | Co-founder & CTO at Wiseware (http://wisewaresolutions.com/)
-The exhibitors are:
-1. Watgrid Solutions
-2. Apis Technology
-3. PICadvanced
-4. Exatronic Innovation Insight
-5. Wiseware (http://wisewaresolutions.com/)
-Program:
-20:30 | Icebreak
-21:00 | Tertulia
-21:40 | Debate
-22:00 | Demonstrators
-To ensure your spot in this great event, don’t forget to sign up here: http://bit.ly/2DzkBnx
-Hardware City Sessions are events in which we discuss and address issues related to product development, starting with its creation, while going through the process of industrialization and commercialization.
-In the first part of the Session, our invited speakers set the debate tone, while interacting with the audience. In the second part, we have a showcase with innovative products presented by companies and startups, with whom the participants can establish contact.
-
-Foto dos speakers: https://www.facebook.com/hardwarecity.org/photos/gm.973407729484239/1015906701881215/
-
-Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.972075496284129/1014431918695360

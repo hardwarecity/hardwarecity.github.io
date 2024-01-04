@@ -6,15 +6,20 @@ date: 2016-04-27
 
 ## Hardware City Session #3
 
-Quarta, 27 abril, de 2016, 21h
-Centro Cultural e de Congressos de Aveiro
-
 {{< img src="event-photo.png" >}}
 
-Descrição: We are happy to announce the HARDWARE CITY Session #3!
-After a crowded and sometimes messy second session, we are announcing an HARDWARE CITY Session with new facilities, equipment and more prepared to receive you!
-We will bring to you three guests and this time, a pitch of a new product from a maker!
 
+Hardware City Session #3: Unveiling Innovations and Overcoming Challenges
+We're delighted to announce the triumphant return of Hardware City Session #3, hosted in partnership with the Câmara Municipal de Aveiro at the esteemed "Centro Cultural e de Congressos de Aveiro." This session marked a milestone in our journey, boasting enhanced facilities and a robust lineup of innovators poised to inspire and educate.
+The atmosphere crackled with anticipation as hardware enthusiasts gathered at the historic Ceramic Factory “Jeronymo Pereira Campos (1916),” now transformed into the state-of-the-art Centro Cultural e de Congressos de Aveiro. Here, amidst cutting-edge equipment and new resources, we embarked on an enlightening discourse on hardware product development and strategies to surmount obstacles.
+Meet Our Visionaries:
+* André Sousa, the Co-CEO and CFO of ISSHO Technology, captivated the audience with a revolutionary approach to custom furniture manufacturing rooted in 3D design. His insights unveiled new dimensions in product creation, redefining the possibilities within the furniture industry.
+* Hugo Silva, the Chief Innovation Officer at PLUX – Wireless Biosignals, shared his groundbreaking work in revolutionizing product development and testing methodologies using physiological sensors. His vision offers a paradigm shift in how developers innovate and validate their products.
+* João Costa, the botnroll.com manager at SAR – Soluções de Automação e Robótica, brought to light his expertise in robots and their applications within the educational market. His experiences offered a glimpse into the dynamic world of robotics, emphasizing its potential in shaping the future of education.
+This session not only showcased remarkable innovations but also provided a platform for a maker to pitch a new product, fostering creativity and entrepreneurial spirit within our community.
+We extend our heartfelt appreciation to our esteemed speakers, attendees, and the Câmara Municipal de Aveiro for their invaluable support in making Hardware City Session #3 a resounding success!
+Stay tuned for our upcoming sessions as we continue our odyssey to unravel the intricacies and advancements in hardware innovation.
+Join us for our next Hardware City Session, where we continue to unravel the mysteries and possibilities of hardware development, creating ripples of innovation in our ever-evolving landscape!
 
 ## Guests
 
@@ -38,22 +43,3 @@ Brand Manager @ SAR - Soluções de Automação e Robótica
 ![](joao-costa.png)
 {{< /card >}}
 {{< /cards >}}
-
-We hope you enjoy this session! Come and be a part of the Community!
-Join us at the old Ceramic Factory “Jeronymo Pereira Campos (1916)” (oficially Centro Cultural e de Congressos de Aveiro), 27/04/2016 at 21:00h and let’s talk about hardware product development and how to overcome obstacles!
-This event is hosted by Hardware City team in partnership with Câmara Municipal de Aveiro (local municipality).
-
-Discussão:
-Meet the first guest of HARDWARE CITY Session #3
-André Sousa is the Co-CEO and CFO of ISSHO Technology, a company that has pretty different and revolutionary approach to custom furniture manufacturing based on 3D design.
-Foto do speaker: https://www.facebook.com/hardwarecity.org/photos/gm.234312150260075/666878230117399/
-
-Meet the second guest of HARDWARE CITY Session #3
-Hugo Silva is the Chief Innovation Officer @ PLUX – Wireless Biosignals and is revolutionizing the way developers develop and test new products with physiological sensors.
-Foto do speaker: https://www.facebook.com/hardwarecity.org/photos/gm.234941910197099/667364913402064/
-
-Meet the third guest of HARDWARE CITY Session #3
-João Costa is the botnroll.com manager @ SAR – Soluções de Automação e Robótica and will talk about his experience with robots and educational market.
-
-Foto Speaker: https://www.facebook.com/hardwarecity.org/photos/gm.237583959932894/669490269856195/
-

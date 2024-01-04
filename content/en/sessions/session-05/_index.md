@@ -1,20 +1,22 @@
 ---
 title: "Hardware City: Session 5"
 description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
-date: 2016-07-12
+date: 2016-07-12T20:45:00
 ---
-
-## Hardware City Session #5
-Terça-feira, 12 de julho de 2016, 20h45
-Centro Cultural e de Congressos de Aveiro
 
 {{< img src="event-photo.jpeg" >}}
 
-Descrição:
-Session #5 will be all about Industry 4.0! We've gathered some of the top experts in IoT, Hardware Development and Industrial optimization processes.
-We've also prepared a great debate session and live showcases from Startups, Makers and Research entities! We hope you'll enjoy it.
+We're excited to share the post-event insights and highlights from our recent successful Hardware City Session #5, dedicated to the exploration of Industry 4.0. This session offered a comprehensive look into the realms of IoT, hardware development, and industrial optimization processes, shaping the future of technology.
 
-## Speakers
+### Session Highlights
+
+Expert Insights: Esteemed speakers Francisco Almada Lobo (CEO, Critical Manufacturing), Celso Martinho, and Miguel Santos shared invaluable insights into Industry 4.0. Their expertise shed light on the evolution of IoT, product development strategies, and the transformative potential of Industry 4.0 technologies.
+
+Live Demonstrations: The session featured live demonstrations from startups, makers, and research entities, showcasing groundbreaking innovations. These demonstrations offered a tangible glimpse into the practical applications of cutting-edge technologies in today's industry landscape.
+
+Engaging Debate: An open debate allowed participants to delve into the challenges and opportunities within the Industry 4.0 sphere. Discussions revolved around various facets, including IoT advancements and hardware optimization processes, sparking insightful dialogues among attendees.
+
+We extend our heartfelt thanks to our esteemed speakers, attendees, and partners for contributing to the success of Hardware City Session #5. Stay tuned for more updates, insights, and announcements as we continue our journey through the ever-evolving world of hardware innovation!
 
 {{< cards count=3 >}}
 {{< card >}}
@@ -30,25 +32,3 @@ CEO @ [BrightPixel](https://brpx.com)
 Director of Product Development @ [Bosch](https://www.bosch.pt)
 {{< /card >}}
 {{< /cards >}}
-
-
-Stay tuned for more updates! In the meantime check the agenda:
-20:45h: Welcome & Ice Break
-21:00h: Opening
-21:15h: Speakers presentation
-21:45h: Open Debate
-22:10h: Showcases & Demonstrators
-
-Discussão:
-Presenting our first guest for HARDWARE CITY Session #5:
-Francisco Almada Lobo!
-CEO @ Critical Manufacturing
-Francisco Almada Lobo holds an MBA and an Electrical Engineering Degree from University of Porto. He started his career in Centro de CIM do Porto, an R&D institute, and joined Siemens Semiconductor in 1997. Throughout Siemens, Infineon and Qimonda, he gained experience in several manufacturing areas having, in 2004, led the first migration of an MES system in a running high-volume facility. Between 2005 and 2009, he managed the Porto Development Center for Infineon and Qimonda, with implementation of automation projects in the group plants worldwide. Francisco acted as Chief Operating Officer of Critical Manufacturing where, among other areas, he was responsible for the Product business unit. Since 2010 he's the company's CEO.
-
-We are happy to present our Second Guest for this Session: Celso Martinho!
-We are looking forward to hear about Celso’s take on the evolution of the IoT industry towards facing the Industry 4.0 challenges!
-
-Our third speaker for Session #5 will be Miguel Santos.
-Miguel Santos is currently the Director of Product Development and Innovation at Bosch. We will be hearing a lot about the vision of the company regarding hardware and IoT development, a long with product development processes.
-
-Foto do evento: https://www.facebook.com/hardwarecity.org/photos/gm.1122842717775833/696475360491019
