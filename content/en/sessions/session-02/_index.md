@@ -42,3 +42,12 @@ __Director of Engineering__ @ [Veniam](https://veniam.com)
 ![](andre-cardote.png)
 {{< /card >}}
 {{< /cards >}}
+
+{{< img src="photos/12473959_660231607448728_7638922718627673499_o.jpg" width=200 >}}
+{{< img src="photos/11004539_660231524115403_125768900027356940_o.jpg" width=200 >}}
+{{< img src="photos/12719505_660231220782100_8953378841931043313_o.jpg" width=200 >}}
+{{< img src="photos/12795009_660231447448744_4249333892058652691_o.jpg" width=200 >}}
+{{< img src="photos/12901295_660231477448741_5973438983229508061_o.jpg" width=200 >}}
+{{< img src="photos/12909471_660231044115451_2920310790039418279_o.jpg" width=200 >}}
+{{< img src="photos/12909632_660231344115421_3112033302146710855_o.jpg" width=200 >}}
+{{< img src="photos/12968008_660231510782071_3307679505789005151_o.jpg" width=200 >}}
