@@ -29,3 +29,15 @@ We extend our sincere gratitude to our esteemed speakers, exhibitors, and attend
 
 Stay tuned for more updates, insights, and future sessions as we continue our journey, exploring the multifaceted landscape of product development and innovation!
 
+{{< img src="photos/35282792_1099249830213568_7674340864067371008_n.jpg" width=200 >}}
+{{< img src="photos/35375772_1099250316880186_7115100894806409216_n.jpg" width=200 >}}
+{{< img src="photos/35381390_1099250543546830_8175197968484270080_n.jpg" width=200 >}}
+{{< img src="photos/35270270_1099250530213498_5540842767749480448_n.jpg" width=200 >}}
+{{< img src="photos/35304526_1099250426880175_8537994710675881984_n.jpg" width=200 >}}
+{{< img src="photos/35384476_1099250403546844_5008761590393077760_n.jpg" width=200 >}}
+{{< img src="photos/35328706_1099249733546911_322678367507709952_n.jpg" width=200 >}}
+{{< img src="photos/35298457_1099249820213569_7477106229144190976_n.jpg" width=200 >}}
+{{< img src="photos/35400592_1099249723546912_999177493774598144_n.jpg" width=200 >}}
+{{< img src="photos/35402388_1099250296880188_5028580905959030784_n.jpg" width=200 >}}
+{{< img src="photos/35403055_1099250410213510_3791732695256530944_n.jpg" width=200 >}}
+{{< img src="photos/35418269_1099250516880166_7100774928311386112_n.jpg" width=200 >}}

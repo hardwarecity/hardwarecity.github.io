@@ -35,4 +35,8 @@ We extend our heartfelt gratitude to our esteemed speakers, attendees, and colla
 
 Stay tuned for more updates, insights, and future sessions as we continue our journey, exploring the forefronts of product development, innovation, and sustainable energy solutions!
 
-
+{{< img src="photos/51727809_1323711064434109_2127601454112833536_n.jpg" width=200 >}}
+{{< img src="photos/51729481_1323711621100720_2641194893203996672_n.jpg" width=200 >}}
+{{< img src="photos/51739658_1323711394434076_6051865230827323392_n.jpg" width=200 >}}
+{{< img src="photos/51798043_1323710901100792_2301930040603967488_n.jpg" width=200 >}}
+{{< img src="photos/52698833_1323711254434090_4483290221676331008_n.jpg" width=200 >}}
