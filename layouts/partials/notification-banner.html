@@ -1,0 +1,10 @@
+{{- with .Site.Params.notification_banner -}}
+    {{- if .enabled -}}
+        <aside class="notification-banner" aria-label="{{ .title }}">
+            <div class="container">
+                <strong>{{ .title }}</strong><br>
+                {{ .message }}
+            </div>
+        </aside>
+    {{- end -}}
+{{- end -}}
