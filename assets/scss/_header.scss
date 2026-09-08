@@ -65,6 +65,19 @@
     }
 }
 
+.notification-banner {
+    background: var(--primary-800);
+    color: var(--white);
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 12px 0;
+    text-align: center;
+
+    strong {
+        font-weight: 800;
+    }
+}
+
 .main-menu {
     background-color: white;
     padding-left: 12px;

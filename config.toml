@@ -1,3 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+
+[params.notification_banner]
+enabled = true
+title = 'Hardware City has come to an end.'
+message = 'Thank you to everyone who built, shared, and learned with us. This website remains as an archive of our community.'
