@@ -14,10 +14,8 @@ We believe in a sustainable economy and provide mentorship to ideas in technolog
 
 ## Mission
 
-[//]: # (- Promoção do conhecimento de produtização)
-[//]: # (- Aproximar e dinamizar a interação entre makers, startups e a indústria)
-[//]: # (- Criar uma comunidade aberta e sustentável dedicada a desenvolvimento de produto)
+Advocate for product innovation on all fronts!
 
-- Promote Productization Knowledge
-- Build a bridge between startups, makers and industry
-- Create an open and sustainable community dedicated to product development
+- Understand how to execute better products and share that knowledge with everyone
+- Help build a bridge between startups and industry partners
+- Create an open and sustainable community around product development
