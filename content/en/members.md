@@ -30,6 +30,17 @@ images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 | Bruno Horta    |
 | Beatriz Sousa  |
 
+<br/><br/>
+
+| Member |
+|--------|
+| Eduardo Esteves |
+
 ## Alumni
 
-(To be updated soon.)
+| Name                          |
+|-------------------------------|
+| Francisco Mendes              |
+| Miguel Almeida                |
+| Pedro Nuno Ferreira Magalhães |
+| Ricardo Tavares               |
