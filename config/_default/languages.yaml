@@ -16,10 +16,6 @@ en:
       text: "Discord"
       link: "https://discord.gg/vGdXVRgM"
       disabled: true
-    footer_cta:
-      text: "Discord"
-      link: "https://discord.gg/vGdXVRgM"
-      disabled: true
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:

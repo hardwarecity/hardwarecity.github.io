@@ -50,20 +50,6 @@
                 {{ end }}
             </div>
 
-            {{ with .Site.Params.footer_cta }}
-            {{ if and .text (or .disabled .link) }}
-            <div class="footer__cta">
-                {{ if .disabled }}
-                <a class="button tertiary cta-disabled" role="link" aria-disabled="true" aria-label="{{ .text }}" aria-describedby="footer-cta-tooltip" tabindex="0">
-                    {{ .text }}
-                    <span class="cta-disabled__tooltip" id="footer-cta-tooltip" role="tooltip">The Discord channel is closed. See the notice at the top of the page.</span>
-                </a>
-                {{ else if .link }}
-                <a href="{{ .link | absLangURL }}" class="button tertiary">{{ .text }}</a>
-                {{ end }}
-            </div>
-            {{ end }}
-            {{ end }}
         </div>
 
         <div class="footer__logo-social-wrapper">
