@@ -58,6 +58,7 @@
                 {{ with $.Site.Params.main_cta }}
                 {{ if and .text .disabled }}
                 <a class="button main-menu-cta cta-disabled" role="link" aria-disabled="true" aria-label="{{ .text }}" aria-describedby="header-cta-tooltip" tabindex="0">
+                    <img src="{{ "/img/social-icons/discord.svg" | relURL }}" width="20" height="20" alt="">
                     {{ .text }}
                     <span class="cta-disabled__tooltip" id="header-cta-tooltip" role="tooltip">The Discord channel is closed. See the notice at the top of the page.</span>
                 </a>
