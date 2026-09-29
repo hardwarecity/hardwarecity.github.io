@@ -1,0 +1,11 @@
+.session-photos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr));
+  gap: 16px;
+}
+
+.session-photos a,
+.session-photos img {
+  display: block;
+  width: 100%;
+}

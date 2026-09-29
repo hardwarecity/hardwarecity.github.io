@@ -23,3 +23,22 @@ Our heartfelt thanks to Carlos Alves for gracing us with his wisdom and to all a
 For all those passionate about hardware development and eager to explore the next frontiers, Hardware City Sessions await your participation in shaping the future of technology.
 
 Stay tuned for updates on our next event and join us on this exciting venture into the world of hardware innovation!
+
+{{< session-photos >}}
+{{< session-photo src="photos/12615508_642085939263295_5886060663012357244_o.jpg" >}}
+{{< session-photo src="photos/12698334_642085969263292_3976335592608976350_o.jpg" >}}
+{{< session-photo src="photos/12747972_642086059263283_6005691319969059102_o.jpg" >}}
+{{< session-photo src="photos/12748124_642085782596644_7822545714089951673_o.jpg" >}}
+{{< session-photo src="photos/12771708_642086145929941_6864780204607318419_o.jpg" >}}
+{{< session-photo src="photos/12771973_642085775929978_734750524783498867_o.jpg" >}}
+{{< session-photo src="photos/12792185_642086292596593_3662273164208002295_o.jpg" >}}
+{{< session-photo src="photos/12792322_642085865929969_2846782391333564999_o.jpg" >}}
+{{< session-photo src="photos/10683563_642085859263303_553440050488983703_o.jpg" >}}
+{{< session-photo src="photos/12029781_642086165929939_4716656247096934033_o.jpg" >}}
+{{< session-photo src="photos/12030349_642085772596645_7474625953749360746_o.jpg" >}}
+{{< session-photo src="photos/12419115_642086192596603_5898155581020544897_o.jpg" >}}
+{{< session-photo src="photos/12764790_642086252596597_1096554504416866565_o.jpg" >}}
+{{< session-photo src="photos/12764823_642085852596637_8319955297447227560_o.jpg" >}}
+{{< session-photo src="photos/12783776_642086032596619_810542288740557490_o.jpg" >}}
+{{< session-photo src="photos/12792112_642086289263260_8066179431707565841_o.jpg" >}}
+{{< /session-photos >}}

@@ -35,4 +35,18 @@ We extend our heartfelt gratitude to our esteemed speakers, attendees, and colla
 
 Stay tuned for more updates, insights, and future sessions as we continue our journey, exploring the forefronts of product development, innovation, and sustainable energy solutions!
 
-
+{{< session-photos >}}
+{{< session-photo src="photos/51727809_1323711064434109_2127601454112833536_n.jpg" >}}
+{{< session-photo src="photos/51739658_1323711394434076_6051865230827323392_n.jpg" >}}
+{{< session-photo src="photos/51798043_1323710901100792_2301930040603967488_n.jpg" >}}
+{{< session-photo src="photos/52698833_1323711254434090_4483290221676331008_n.jpg" >}}
+{{< session-photo src="photos/51729481_1323711621100720_2641194893203996672_n.jpg" >}}
+{{< session-photo src="photos/51737898_1323710984434117_8432069830630178816_n.jpg" >}}
+{{< session-photo src="photos/51746142_1323711121100770_241450794954522624_n.jpg" >}}
+{{< session-photo src="photos/51926005_1323711547767394_7365850495820234752_n.jpg" >}}
+{{< session-photo src="photos/52024157_1323711644434051_664083372246564864_n.jpg" >}}
+{{< session-photo src="photos/52115474_1323711141100768_5092921195385323520_n.jpg" >}}
+{{< session-photo src="photos/52120280_1323711361100746_6879198682202243072_n.jpg" >}}
+{{< session-photo src="photos/52450118_1323711031100779_137046024093958144_n.jpg" >}}
+{{< session-photo src="photos/52783797_1323711194434096_4465194459306393600_n.jpg" >}}
+{{< /session-photos >}}
