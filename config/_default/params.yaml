@@ -4,7 +4,7 @@
 logo_on_white: "/img/hardware-city-logo.png"
 logo_on_black: "/img/hardware-city-logo.png"
 custom_js: []
-custom_css: []
+custom_css: ["css/session-photos.css"]
 
 ######################## custom config ####################
 

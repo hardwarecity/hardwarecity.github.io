@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+{{ with .Page.Resources.Get $src }}
+<a href="{{ .RelPermalink }}" target="_blank" rel="noopener" title="Open full-size photo"><img src="{{ .RelPermalink }}" width="320" alt="Photo from {{ $.Page.Title }}" loading="lazy"></a>
+{{ else }}
+{{ errorf "Session photo %q not found: %s" $src .Position }}
+{{ end }}
