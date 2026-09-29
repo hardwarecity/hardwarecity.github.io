@@ -17,8 +17,6 @@
   "homepage": "https://github.com/HardwareCity/hardwarecity.github.io#readme",
   "dependencies": {
     "autoprefixer": "^10.5.5",
-    "hugo-extended": "^0.165.0",
-    "netlify-cli": "^27.5.0",
     "postcss": "^8.5.28",
     "postcss-cli": "^12.0.0"
   },
