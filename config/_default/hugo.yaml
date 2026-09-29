@@ -21,6 +21,10 @@ markup:
     renderer:
       unsafe: true
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 ######################## privacy & speed ####################
 # Enable do not track, no cookies on Video embeds
 privacy:
