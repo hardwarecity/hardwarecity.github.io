@@ -72,6 +72,20 @@
     font-weight: 400;
     src: url("/fonts/ClarityCity-RegularItalic.woff2") format("woff2");
 }
+@font-face {
+    font-display: fallback;
+    font-family: "Clarity City";
+    font-style: normal;
+    font-weight: 500;
+    src: url("/fonts/ClarityCity-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-display: fallback;
+    font-family: "Clarity City";
+    font-style: italic;
+    font-weight: 500;
+    src: url("/fonts/ClarityCity-MediumItalic.woff2") format("woff2");
+}
 /* nunito-700 - latin */
 @font-face {
     font-display: fallback;
