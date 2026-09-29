@@ -1,54 +1,42 @@
 ---
 title:
-description: This is the demo site for Dot Org Theme. The title description and images front matter is required for meta og content.
+description: Hardware City brought makers, startups and industry together to share product development knowledge and advocate for innovation.
 ---
 
 ## HARDWARE COMMUNITY
 
-Hardware City closes the gap between hardware startups and contract manufacturers
+Hardware City brought makers, entrepreneurs, startups and industry partners together around product development. Building a hardware product is hard, especially when moving from an idea to production. We wanted people to have the knowledge and connections to make that journey easier.
+
+## OUR MISSION
+
+Hardware City advocated for product innovation on all fronts:
+
+### SHARE WHAT MAKES BETTER PRODUCTS
+
+Understand how to execute better products and share that knowledge with everyone, from early ideas through development and industrialization.
+
+### CONNECT STARTUPS AND INDUSTRY
+
+Build a bridge between startups and industry partners, including manufacturers, so ideas, expertise and opportunities can meet.
+
+### GROW AN OPEN COMMUNITY
+
+Create an open and sustainable community around product development where makers, entrepreneurs and industry can share skills, collaborate and support one another.
+
+## BUILDING TOGETHER
 
 ### HARDWARE STARTUPS
 
-Developing hardware products is Hard! Here you can find a community that can help you during the pipeline of industrialization
+Developing hardware products is hard. A community with experience across product development and industrialization can help startups learn from others and find the right partners.
 
 ### COMMUNITY OF MAKERS
 
-Makers are one of the most creative communities worldwide. We want to engage this community to stimulate the creativity and share of technical skills
+Makers bring creativity and technical skills to the table. Sharing those skills and experimenting together makes room for new ideas.
 
 ### INDUSTRY
 
-The step from product development to industrialization is the most difficult. We want to bridge the gap between hardware startups and the contract manufacturers
+Moving from product development to industrialization is a big step. Connecting startups with manufacturers and other industry partners helps bridge that gap.
 
-## Mission
+## EXPLORE THE ARCHIVE
 
-### WHAT IT IS
-
-Hardware City is a community of entrepreneurs that closes the gap between hardware startups and contract manufacturers.
-
-
-### MISSION
-
-Create a community of Makers, Entrepreneurs, Industrial Organizations and Manufacturers to empower people with the means and knowledge to leverage ideas to products.
-
-Close gap between hardware startups and contract manufacturers
-Promote Product development
-Create a world class Hardware Hub for Startups.
-
-### THE PROBLEM
-
-Product development is hard
-Starting a new Hardware Startups is harder
-Absence of a competence Network
-Lack of interaction between organizations
-
-### AREAS OF INTEREST
-
-- IoT
-- Drones
-- 3D Printing
-- Robotics
-- Hardware
-- Software
-- Wearables
-- Beacons
-- Spread the word
+Explore past [sessions](/sessions/) and [hackathons](/hackathons/) to see the community in action.
