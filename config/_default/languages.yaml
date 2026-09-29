@@ -1,6 +1,6 @@
 en:
   disabled: false
-  languageName: English
+  label: English
   weight: 1
   ### copyright (markdown can be used) ###
   copyright: "Copyright &copy; {{< current_year >}} Hardware City. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
@@ -12,13 +12,14 @@ en:
       skip_text: "Skip to content"
       help_text: "Accessibility Statement"
       help_url: "/example-page/"
-    ### calls to action ###
     main_cta:
-      text: "Discord" # TODO @dvcorreia: point to our slack
+      text: "Discord"
       link: "https://discord.gg/vGdXVRgM"
+      disabled: true
     footer_cta:
       text: "Discord"
       link: "https://discord.gg/vGdXVRgM"
+      disabled: true
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
@@ -41,10 +42,11 @@ en:
       parent: "about"
     - identifier: "governance"
       name: "Governance"
-      url: "/governance"
       weight: 3
       post: "The governance defines how decisions are made, so you can have a feel on how we work."
       parent: "about"
+      params:
+        disabled: true
     - identifier: "projects"
       name: "Projects"
       url: "/projects/"
@@ -57,10 +59,11 @@ en:
       parent: "projects"
     - identifier: "space-maker-space"
       name: "Space Maker Space 🛸"
-      url: "/space-maker-space"
       weight: 3
       post: "A maker space open to you and your projects."
       parent: "projects"
+      params:
+        disabled: true
     # - identifier: "companies-directory"
     #   name: "Companies Directory 📁"
     #   url: "/companies-directory"
@@ -87,7 +90,7 @@ en:
       weight: 5
 pt:
   disabled: true
-  languageName: Português
+  label: Português
   contentDir: content/pt
   weight: 2
   title: "Hardware City"

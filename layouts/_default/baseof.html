@@ -5,6 +5,7 @@
         {{- partial "accessibility.html" . -}}
         {{- partial "notification-banner.html" . -}}
         {{- partial "header.html" . -}}
+        {{ if ne .Kind "home" }}
         <section id="content" class="container wrap">
             {{ if ne .Params.showHeader false }}
             <header>
@@ -14,18 +15,21 @@
                 {{/*  <h1 class="title">{{ .Title }}</h1>  */}}
             </header>
             {{ end }}
-            {{ if or (eq .Kind "section") (eq .Kind "home") }}
+            {{ if eq .Kind "section" }}
             <div class="content">
             {{ else }}
             <article class="content">
             {{ end }}
-            {{- block "main" . }}{{ .Content }}{{- end }}
-            {{ if or (eq .Kind "section") (eq .Kind "home") }}
+        {{ end }}
+        {{- block "main" . }}{{ .Content }}{{- end }}
+        {{ if ne .Kind "home" }}
+            {{ if eq .Kind "section" }}
             </div>
             {{ else }}
             </article>
             {{ end }}
         </section>
+        {{ end }}
         {{- partial "footer.html" . -}}
     </body>
 </html>

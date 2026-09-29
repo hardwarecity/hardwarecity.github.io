@@ -1,3 +1,5 @@
+@use "variables" as *;
+
 .header {
     width: 100%;
     background: var(--white);
@@ -30,7 +32,14 @@
 
     // Reset lists.
     ul {
-        @extend .ul-reset;
+        list-style-type: none;
+        margin-block: 0;
+        margin-inline: 0;
+        padding-inline-start: 0;
+
+        li {
+            margin-bottom: 0;
+        }
     }
 
     .logo {
@@ -124,7 +133,8 @@
             display: flex;
         }
         // All Links.
-        a {
+        a,
+        .menu-link-disabled {
             display: block;
             color: var(--menu-link-color);
             text-decoration: none;
@@ -138,9 +148,10 @@
             @media (prefers-reduced-motion: reduce) {
                 transition: none;
             }
-            &:hover {
-                color: var(--menu-link-color-hover);
-            }
+        }
+
+        a:hover {
+            color: var(--menu-link-color-hover);
         }
 
         // All Menu Items.
@@ -307,4 +318,46 @@
             }
         }
     }
+}
+
+.menu-link-disabled {
+    opacity: 0.5;
+}
+
+.footer__menu .menu-link-disabled {
+    font-size: 13px;
+}
+
+.cta-disabled {
+    position: relative;
+    cursor: help;
+
+    &__tooltip {
+        position: absolute;
+        top: calc(100% + 8px);
+        right: 0;
+        width: max-content;
+        max-width: min(280px, calc(100vw - 24px));
+        padding: 8px 12px;
+        border-radius: 6px;
+        background: var(--black);
+        color: var(--white);
+        font-size: 13px;
+        font-weight: 400;
+        text-transform: none;
+        line-height: 1.4;
+        text-align: left;
+        visibility: hidden;
+        z-index: 1;
+    }
+
+    &:hover &__tooltip,
+    &:focus-visible &__tooltip {
+        visibility: visible;
+    }
+}
+
+.footer .cta-disabled__tooltip {
+    background: var(--white);
+    color: var(--black);
 }

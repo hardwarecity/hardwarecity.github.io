@@ -11,7 +11,7 @@
       system:
       let
         pkgs = nixpkgs.legacyPackages.${system};
-        buildDeps = with pkgs; [ git hugo nodejs_18 gnumake nodePackages.pnpm];
+        buildDeps = with pkgs; [ git hugo dart-sass nodejs gnumake pnpm];
         devDeps = with pkgs;
           buildDeps ++ [
           ];

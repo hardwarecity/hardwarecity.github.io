@@ -16,10 +16,17 @@ defaultContentLanguage: en
 # Set the default language as the root rather than in folder i.e. don't use /en/
 defaultContentLanguageInSubdir: false
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 ######################## privacy & speed ####################
 # Enable do not track, no cookies on Video embeds
 privacy:
   youtube:
     privacyEnhanced: true
   vimeo:
+    enableDNT: true
+  x:
     enableDNT: true

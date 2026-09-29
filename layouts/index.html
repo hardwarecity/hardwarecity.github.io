@@ -2,43 +2,67 @@
   <style>
     .hero-section {
       color: white;
-
-      h1 {
-        color: white;
-        font-weight: 800;
-      }
-
-      h2 {
-        color: #79b8e5;
-      }
+      height: 400px;
+      overflow: hidden;
+      position: relative;
     }
 
-    video {
+    .hero-section h1 {
+      color: white;
+      font-weight: 800;
+      margin-top: 0;
+      padding-top: 50px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-section__content {
+      margin: 0 auto;
+      max-width: 895px;
+    }
+
+    .hero-section h2 {
+      color: #79b8e5;
+      position: relative;
+      z-index: 1;
+    }
+
+    .hero-section video {
+      height: 100%;
       width: 100%;
-      max-height: 700px;
       object-fit: cover;
       position: absolute;
-      z-index: -1;
-      top: 60px;
+      z-index: 0;
+      top: 0;
       left: 0;
       filter: brightness(65%);
     }
 
+    @media (min-width: 1000px) {
+      .hero-section {
+        height: 700px;
+      }
+    }
+
     main {
-      padding-top: 200px;
+      padding-top: 0;
     }
   </style>
 
-  <section class="hero-section" style="height: 400px;">
-    <h1>Building with People</h1>
-    <h2><strong>Great things are built in community.</strong></h2>
+  <section class="hero-section">
+    <div class="hero-section__content">
+      <h1>Building with People</h1>
+      <h2><strong>Great things are built in community.</strong></h2>
+    </div>
 
     <video loop muted autoplay preload="auto" width="100%">
       <source src="/videos/hero.mp4" type="video/mp4">
     </video>
   </section>
 
-  <main>
-    {{ .Content }}
+  <main id="content" class="container wrap">
+    <div class="content">
+      {{ .Content }}
+    </div>
   </main>
 {{ end }}
