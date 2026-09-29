@@ -4,6 +4,8 @@ description: Hardware City is an association dedicated to building things with p
 images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 ---
 
+This list is still incomplete. If we've missed your name, please let us know!
+
 ## 2024
 
 | Direction       |
